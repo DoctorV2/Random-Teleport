@@ -1,0 +1,8 @@
+name: RandomTP
+version: 1.0
+main: com.spectro.main.Main
+author: Spectro#2443
+description: Plugin de tp aleatorio.
+commands:
+  jogar:
+    description: Teleporta o Player para uma localização aleatoria!
